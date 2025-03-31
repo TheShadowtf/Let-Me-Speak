@@ -26,6 +26,8 @@
 - Host a server directly from the LMS app (like TeamSpeak)
 - Optional pre-hosted relay servers for NAT traversal
 - Invite-based access to group channels
+- **Pre-hosted servers support up to 10 users per channel**  
+- **Self-hosted servers have no strict user limit — depends on host machine hardware and network**
 
 ### 🔐 Privacy & Security
 - **End-to-end encryption** for messages
