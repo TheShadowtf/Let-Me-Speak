@@ -76,6 +76,15 @@ make
 
 Contributions are welcome! Whether it’s bug fixes, new features, or just ideas — feel free to open issues or pull requests.
 
+### 🎨 Emoji Support  
+Emoji rendering in LMS uses texture-based image rendering via `stb_image` and OpenGL.
+
+Emoji assets come from:  
+> 🖼️ [OpenMoji Project](https://github.com/hfg-gmuend/openmoji/tree/master) (CC BY-SA 4.0)
+
+We give full credit to the amazing OpenMoji team.
+
+
 ---
 
 ## 📄 License

@@ -5,3 +5,4 @@ cmake ..
 cmake --build . --config Debug
 cd Debug
 LMS.exe
+PAUSE
