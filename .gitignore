@@ -1,0 +1,25 @@
+# Ignore build folder and build artifacts
+build/
+*.exe
+*.obj
+*.o
+*.log
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Ignore Visual Studio files
+*.sln
+*.vcxproj*
+*.user
+*.opensdf
+*.VC.db
+*.ipch
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
